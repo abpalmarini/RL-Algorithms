@@ -1,9 +1,16 @@
-def print_grid(grid_array):
-  n = grid_array.shape[0]
+# Some methods for helping out print the gridworlds
+
+def print_grid_values(gird):
+  n = gird.shape[0]
   for row in range(n):
     print_row_border(n) 
-    print_row_numbers(grid_array[row])
+    print_row_numbers(gird[row])
   print_row_border(n)
+
+def print_grid_policies(grid):
+  pass
+  # TODO: the grid passed will be the letter or letters 'UDLR' for what the
+  # policy is 
 
 def print_row_border(n):
   print('|======'*(n-1), end='')
@@ -20,3 +27,4 @@ def print_row_numbers(row):
     else:
       print('|{:.1f}    '.format(value), end='')
   print('|')
+
