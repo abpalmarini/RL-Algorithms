@@ -1,1 +1,4 @@
 dynamic_programming/.ipynb_checkpoints
+*.pyc
+*~
+*.swp
