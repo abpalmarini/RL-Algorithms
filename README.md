@@ -1,5 +1,4 @@
 Reinforcing *my* learning of Reinforcement Learning.
-___
 
 # Currently built algorithms
 
