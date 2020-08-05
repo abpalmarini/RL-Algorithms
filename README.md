@@ -12,3 +12,5 @@ Reinforcing *my* learning of Reinforcement Learning.
     - [Sarsa](https://github.com/abpalmarini/RL-Algorithms/blob/master/temporal_difference/temporal_difference_methods.ipynb)
     - [Q-Learning](https://github.com/abpalmarini/RL-Algorithms/blob/master/temporal_difference/temporal_difference_methods.ipynb)
     - [Expected Sarsa](https://github.com/abpalmarini/RL-Algorithms/blob/master/temporal_difference/temporal_difference_methods.ipynb)
+###### Approximate/Deep RL:
+* [Deep Q-Learning](https://github.com/abpalmarini/RL-Algorithms/blob/master/deep_q_learning/dqn_cartpole.ipynb)  (numpy only)
